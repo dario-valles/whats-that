@@ -49,7 +49,7 @@ Run the app:
 | 🔌 | **Socket.IO** Enables real-time, bidirectional and event-based communication.|
 | 💅 | **Styled Components**. Utilises the power of tagged template literals. CSS scoped to single, reusable components. |
 | ✨ | **Pose Animation Library.** Pose is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.|
-| 🚀 | **Redux.** Application state management for both frontend and backend. |
+| 🚀 | **Redux.** Application state management for both frontend and backend.  |
 
 ## Credits
 
